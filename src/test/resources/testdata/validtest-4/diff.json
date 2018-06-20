@@ -1,0 +1,19 @@
+{
+  "meta": [
+    {
+      "field": "title",
+      "before": "Title",
+      "after": "New Title"
+    },
+    {
+      "field": "endTime",
+      "before": "2016-04-20T16:00:00+02",
+      "after": "2016-04-20T18:00:00+02"
+    }
+  ],
+  "candidates" : {
+    "edited" : [ ],
+    "added" : [ ],
+    "removed" : [ ]
+  }
+}
