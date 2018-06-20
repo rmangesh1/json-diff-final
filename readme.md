@@ -52,3 +52,7 @@ See test/resources/diff.json for how the report should look. This report is base
 
 - Implement unit tests
 - Document the code, including any assumptions and simplifications you make
+
+## Solutions details
+- Used com.fasterxml.jackson.core instead of net.sf.json-lib
+- Renamed/Modified the Parser class into interface and implementation
