@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Handle class responsible to get Metadata differences
+ * Handler class responsible to get Metadata differences
  */
 public class MetaDiffHandlerImpl implements MetaDiffHandler {
 
